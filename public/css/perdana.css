@@ -1,0 +1,216 @@
+/* HANALDA */
+.konten {
+	background-image: url("../img/lab.png");
+	background-size:cover; 
+	background-repeat: no-repeat;
+	font-family: 'Fira Sans', sans-serif;
+	width: 100%;
+	height: 558px;
+}
+.imgg1{
+	width: 400px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.imgg2 {
+	width: 25px;
+	margin-top: -5px;
+}
+
+/* NETA */
+.top-content{
+    background: url(img/bg-conten2.png);
+    width: 100%;
+    height: 80vh;
+    text-align: center;
+}
+.top-content h2{
+    color: #1e3668;
+    font-weight: 700;
+    padding-top: 100px;
+}
+.top-content li{
+    padding-left: 20px;
+    display: inline-block;
+}
+.top-content img{
+    height: 200px;
+    width: 200px;
+}
+
+.top-content p{
+    font-family: "Fira Sans";
+    font-weight: 700;
+    padding-bottom: 100px;
+}
+.btm-content p{
+    font-family: "Fira Sans";
+    font-weight: 700;
+    padding-bottom: 100px;
+}
+
+.btm-content{
+    margin-top: -20;
+    background-color: #1e3668;
+    width: 100%;
+    height: 80vh;
+    text-align: center;
+}
+.btm-content .title{
+    color: #ffffff;
+    font-family: "Fira Sans";
+    padding-top: 150px;
+    padding-bottom: 100px;
+}
+.btm-content li{
+    margin-top: -80px;
+    padding-left: 20px;
+    display: inline-block;
+    color: #ffffff;
+}
+.btm-content img{
+    height: 100px;
+    width: 80px;
+    margin: 20px;
+}
+.link a{
+    font-size: 16px;
+    color: #e3383e;
+    font-weight: 500;
+    font-family: "Fira Sans";
+    text-align: center;
+    /* padding-bottom: -100px; */
+    margin-top: -50px;
+}
+
+
+/* AJENG */
+.bottoms-header{
+    width: 100%;
+    height: 100vh;
+    background: url(../img/kimia.png) no-repeat 50% 50%;
+}
+.info{
+    color: white;
+    padding-top: 250px;
+    padding-left: 200px;
+}
+.info h4 {
+    font-size: 28px;
+}
+.info h5 {
+    font-size: 17px;
+    font-family: 'Fira Sans', sans-serif;
+}
+.info h6 {
+    font-size: 10px;
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: lighter;
+}
+.box{
+    margin-top: 30px;
+    width: 110px;
+	height: 27px;
+    background: #1f335d;
+    text-align: center;
+}
+.box a{
+    font-size: 10px;
+    color: white;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.tops-widget{
+    width: 100%;
+    height: 400px;
+    background-color: #e8eeef;
+    text-align: center;
+}
+.title-widget h5{
+    color: #1f335d;
+    font-weight: bold;
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+.sub-title{
+    margin: 0 auto;
+    width: 70%;
+    column-count: 3;
+    column-gap: 110px;
+    column-rule-style: solid;
+    column-rule-width: 2px;
+    column-rule-color: #c8cacb;
+    font-weight: bold;
+    
+}
+.sub-title h3{
+    color: #c61f25;
+    font-size: 60px;
+}
+.sub-title p{
+    color: #353535;
+    font-size: 13px;
+    font-family: 'Fira Sans', sans-serif;
+}
+.cek{
+    text-align: right;
+    margin-right: 100px;
+}
+
+/* JUNANDA */
+.bawah {
+    margin-right:20px;
+    font-family: 'Open Sans', sans-serif;
+}
+.line-blue {
+    padding-top:15px;
+    height: 50px;
+    margin-right: -20px;
+    /* margin-top: -8px; */
+    background-color: #1e3668;
+}
+.line-text {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+}
+/* .logo {
+    margin-top:52px;
+    margin-bottom: 52px;
+} */
+.img-logo {
+    width: 50%;
+    display: block;
+    margin: auto;
+}
+.foter {
+    background-color: #090d20;
+    /* width: 100%; */
+    color: #d2d2d4;
+    font-size: 18x;
+    margin-right: -20px;
+    padding-top:35px;
+    padding-bottom:35px;
+}
+.bawah .logo{
+    background-color: white;
+    height: 200px;
+    padding-top: 50px;
+    margin-right: -20px;
+}
+.f1 {
+    margin-left:50px;
+}
+.fi1 {
+    width:20px;
+}
+.Tp-18 {
+    font-size: 18px;
+}
+.footer a {
+    font-size:14px;
+}
+.ill {
+    font-family: 'Roboto', sans-serif;
+}
